@@ -1,0 +1,5 @@
+html {background:#ccc}
+
+section {display: flex; flex-flow: row;}
+
+section div {width:30%; padding: 10em; background: #411d1d;}
