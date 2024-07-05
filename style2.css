@@ -2,7 +2,7 @@ html, body {background:#ccc; padding: 0; margin: 0;}
 
 section {display: flex; flex-flow: column;}
 
-section div {width:100%; padding: 10em; background: #411d1d; color:#ccc;}
+section div {width:100%; padding: 10em; background: #411d1d; color:#ccc; box-sizing: border-box;}
 
 
 @media (min-width: 640px){
